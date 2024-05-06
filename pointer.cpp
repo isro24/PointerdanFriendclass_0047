@@ -9,3 +9,8 @@ public:
     }
 
 };
+
+int main(){
+    mahasiswa mhs{1};       //Objet mhs
+    mhs.showNim();      //Member Access Operator
+}
